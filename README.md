@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm K.T.Sasindu!
 
-<!--
-**KTSasindu/KTSasindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student from University of Peradeniya, Sri Lanka 🇱🇰  
+💡 I love building projects using C, Python, Java, Verilog, MySQL and exploring computer architecture and embedded systems.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Programming: C, Java, Python, Java, Verilog, MySQL, 
+- Web: HTML
+- Tools: Git, GitHub, VS Code, MATLAB, PyCharm
+- Other: Numerical Methods, Computer Architecture (Verilog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar)
+
+## 📫 Contact
+- 📧 Email: e21361@eng.pdn.ac.lk
+- 💼 [LinkedIn](https://www.linkedin.com/in/ktsasindu)
